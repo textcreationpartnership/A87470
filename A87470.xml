@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A puritane set forth in his lively colours: or, K. James his description of a puritan. Whereunto is added, the round-heads character, with the character of an holy sister. All fitted for the times.</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87470</idno><idno type="EEBO-CITATION">99860239</idno>
+  <idno type="VID">112356</idno>
+  <idno type="EEBO-PROQUEST">2240881982</idno>
+  
+            <idno type="STC">Wing J142</idno>
+            <idno type="STC">Thomason E113_11</idno>
+            <idno type="STC">ESTC R17636</idno>
+            <idno type="PROQUEST">99860239</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860239e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A puritane set forth in his lively colours: or, K. James his description of a puritan. Whereunto is added, the round-heads character, with the character of an holy sister. All fitted for the times.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The round-heads character" and "The holy-sisters character" in verse.</note>
+                  <note>"A puritan set forth" extracted from the Basilikon doron --  Cf. BM.</note>
+                  <note>Annotation on Thomason copy: "Aug: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Puritans --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112356:1"/>
+            <p>A PURITANE <hi>Set forth</hi> In his Lively Colours: OR, <hi>K. <hi>JAMES</hi> his description of a Puritan.</hi>
+            </p>
+            <p>Whereunto is added, <hi>THE</hi> Round-heads Character, <hi>WITH</hi> The Character of an <hi>Holy Sister.</hi>
+            </p>
+            <p>All fitted for the times.</p>
+            <q xml:lang="lat">
+               <l>Ignes profundi, fraudes Capitis{que} Rotundi,</l>
+               <l>Et Judae suavium, det Deus ut caveam.</l>
+            </q>
+            <figure>
+               <figDesc>illustration</figDesc>
+            </figure>
+            <p>
+               <add>Aug: 23</add>
+               <hi>LONDON,</hi> Printed for <hi>N. B.</hi> 1642.</p>
+            <pb facs="tcp:112356:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_a_Puritan">
+            <pb n="2" facs="tcp:112356:2"/>
+            <head>A PURITANE <hi>Set forth</hi> In his Lively Colours.</head>
+            <p>WHosoever will look with an imparti<g ref="char:EOLhyphen"/>all eye upon the face of things, and consider aright the head-strong and unruly zeale of those preposterous maligners of Mo<g ref="char:EOLhyphen"/>narchicall Government, (who shaking off all Civill and Ecclesiasticall Order, would (if it were in their power, and they doe indeavour as much as in them possibly lyes for to effect it) introduce a Presbyteri<g ref="char:EOLhyphen"/>an in the Church, and Aristocratical in the State, if any at all, for they are truly, as they would seem to be, Li<g ref="char:EOLhyphen"/>bertines, &amp; seek to live without Laws as they list) He cannot but confesse, what K. <hi>James</hi> of happy memory (whose motto was <hi>Beati Pacifici, blessed are the peace<g ref="char:EOLhyphen"/>makers,</hi> though their actions be the contrary, counting them only happy, which are the Peace-breakers) was the King of Prophets in these later times, and a Pro<g ref="char:EOLhyphen"/>phetical King. For he wisely fore-seeing with the Pro<g ref="char:EOLhyphen"/>methean eye of judgement, what miserable conse<g ref="char:EOLhyphen"/>quents, &amp; dangerous effects, would ensue and happen unto this Kingdome, if these turbulent spirits should
+<pb n="2" facs="tcp:112356:3"/> get a head, or come into any place of authority, did in the second Book of his <hi>Basilicon Doron,</hi> that Kingly gift, which he bequeathed unto our Royall King <hi>Charles,</hi> (whom God long prosper with his just and re<g ref="char:EOLhyphen"/>ligious designes) as his last Will and Testament, a<g ref="char:EOLhyphen"/>mong other of his Princely Admonitions, gave him this <hi>caveat,</hi> to beware of this monstrous brood. Take heed (saith he) of these Puritans, the very pests (or plagues) in the Church &amp; Common-wealth; whom no deserts can oblige; neither oathes, nor promises binde; breathing nothing but sedition and calumnies; aspiring without measure, railing without reason, and making their owne imaginations (without any war<g ref="char:EOLhyphen"/>rant of the Word) the square of their conscience▪ I protest before the great God, and since I am here, as upon my Testament, it is no place for me to lie in, that you shall never finde, with any Highland, or Border-theeves, greater ingratitude, and more lies, and vile perjuries, then with these phanatick spirits. And suf<g ref="char:EOLhyphen"/>fer not the principals of them to brook your land, if you like to sit at rest; except you would keep them for trying your patience, as <hi>Socrates</hi> did an evill wife. And (in the page before) he speaks thus of them: I was oft-times calumniated by these fiery-spirited men in their popular Sermons; not for any evill or vice in me; but because I was a King: which they thought the highest evill. So that then, if any man shall propound that old Quaere, <hi>What is a Puritan?</hi> We may resolve the Question, and describe him in his true colours, out of K. <hi>James,</hi> after this manner: A Puritan, is one of the pestilent party, the very plague of the Church and Common-wealth, whom no de<g ref="char:EOLhyphen"/>serts
+<pb n="3" facs="tcp:112356:3"/> can oblige, nor oathes, nor promises binde; one that breathes nothing but sedition and calumnies; aspiring without measure, and railing without reason; making his owne imaginations (without warrant of the Word) the square of his conscience. He is a pha<g ref="char:EOLhyphen"/>natick spirit; with whom you may find greater ingra<g ref="char:EOLhyphen"/>titude, more lies, and viler perjuries, then amongst the most infamous theeves. And if the principals of them be suffered in a Kingdome, it can be to no other good purpose, but for the tryall of the Kings patience: for when they speak evill of Kings, it is not because Kings deserve it; but because it is naturall in these men to deprave them.</p>
+            <p>This was the judgement and opinion of <hi>K. James</hi> of happy memory and learned experience: in whose dayes, we enjoyed the flourishing estate of the Gospel, with a great deale of peace, plenty, and prosperity. But now to our griefe we see the truth of his Divine Prediction, and by wofull experience are too too sen<g ref="char:EOLhyphen"/>sible of their conditions.</p>
+            <p>And thus having shewn you <hi>K. James</hi> his opinion of these kind of creatures, which he directed in <hi>Prose;</hi> please you to see the character of them, though under another notion, in <hi>Verse;</hi> it is, as followeth.</p>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:112356:4"/>
+            <head>The ROVND-HEADS Character,</head>
+            <argument>
+               <lg>
+                  <l>If you will see the Character</l>
+                  <l>Of a <hi>Round-head,</hi> loe it is here.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>HE that would holy seeme in all mens sight,</l>
+               <l>When as he truly is an Hypocrite;</l>
+               <l>Would be thought humble, and not have descride</l>
+               <l>His obstinacie and spirituall pride;</l>
+               <l>Who hath enough of saving knowledge, though</l>
+               <l>He never yet could read his Christ-cros row;</l>
+               <l>That cries downe learning, 'cause the simple spirit</l>
+               <l>Doth him inspire with all things against merit.</l>
+               <l>Who hates a Papist, yet approves this notion,</l>
+               <l>That ignorance is mother of devotion:</l>
+               <l>That's a good Christian, yet doth disallow,</l>
+               <l>At Jesus name, his stubborne knee to bow</l>
+               <l>Though God commands it; will cut close his head,</l>
+               <l>Because he saith Saint <hi>Paul</hi> doth him so bid;</l>
+               <l>Loves decent things at home, at Church nought fitting,</l>
+               <l>And will not take the Sacrament but sitting;</l>
+               <l>That will not crosse his child in Baptisme,</l>
+               <l>Because 'tis contrary to Round-head-isme,</l>
+               <l>That in a morning seven long miles on foote</l>
+               <l>Will stretch, to heare a Lay-Priest pray by rote,</l>
+               <l>Ricking in zealous sweat; that boldly dares</l>
+               <l>Reject our Saviours, and our Churches Prayers;</l>
+               <l>That hates a Scholar 'cause he's Orthodox,</l>
+               <l>Yet posts to hear such as in nasty frocks</l>
+               <pb n="5" facs="tcp:112356:4"/>
+               <l> Doe prate at Conventicles; will be sick,</l>
+               <l>If he but heares of a Church Catholick,</l>
+               <l>Yet's well at the next Article; nor faints</l>
+               <l>When hee's amidst the communion of Saints.</l>
+               <l>That will not sweare, when's found fast with a sister,</l>
+               <l>But yet, by Yea and Nay, deny he kist her:</l>
+               <l>That will not doe his neighbour the least evill,</l>
+               <l>Yet thinks to cozen him, God, and the Devill:</l>
+               <l>That utterly detests strange innovation,</l>
+               <l>Yet daily schismes doth procreate in our Nation:</l>
+               <l>Who hates, yet makes division, 'cause the sway</l>
+               <l>Of this our Kingdome should be rul'd his way:</l>
+               <l>Who's never well employ'd, yet still in action,</l>
+               <l>Loves outward peace, but inward's lin'd with faction:</l>
+               <l>That is religious, will oppose nothing</l>
+               <l>But what's authoriz'd by the Church and King:</l>
+               <l>That would be counted blamelesse from his youth,</l>
+               <l>
+                  <hi>This is a very Round-head in good truth.</hi>
+               </l>
+            </lg>
+            <p>Now because you seldome or never can meet a <hi>Puri<g ref="char:EOLhyphen"/>tane</hi> or a <hi>Round-head</hi> (they are <hi>termini aequivalentes</hi>) without a holy sister, which they dearely love, I thinke it not amisse to adjoine her character under him, that so you may the better take notice of both.</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:112356:5"/>
+            <head>The Holy-Sisters Character.</head>
+            <lg>
+               <l>SHee that can sit three Sermons in a day,</l>
+               <l>And of those three, scarce bear three words away;</l>
+               <l>Shee that can rob her husband, to repair</l>
+               <l>A Budget-Priest that noses along prayer;</l>
+               <l>Shee that with Lamb-black purifies her shooes,</l>
+               <l>And with halfe eyes, and Bible, softly goes;</l>
+               <l>Shee that her pocket with Lay Gospell stuffes,</l>
+               <l>And edifies her lookes with little ruffes;</l>
+               <l>Shee that loves Sermons, as shee does the rest,</l>
+               <l>Still standing stiffe, that longest are the best;</l>
+               <l>Shee that will lie, yet sweares shee hates a lyer,</l>
+               <l>Except it be that man that will ly by her;</l>
+               <l>Shee that at Christnings thirsteth for most sack.</l>
+               <l>And drawes the broadest handkerchife for Cake;</l>
+               <l>Shee that sings Psalmes devoutly next the street,</l>
+               <l>And beats her maid i'th Kitchin, where none seet;</l>
+               <l>Shee that will sit in shops for five howr's space,</l>
+               <l>And register the sins of all that passe;</l>
+               <l>Damne at first sight, and proudly dares to say,</l>
+               <l>That none can possibly be sav'd but they;</l>
+               <l>That hangs Religion in a naked eare,</l>
+               <l>And judge mens hearts, according to their haire;</l>
+               <l>That could afford to doubt, who wrote best sense,</l>
+               <l>
+                  <hi>Moses,</hi> or <hi>Dod</hi> on the Commandements.</l>
+               <l>Shee that can sigh and cry, Queen <hi>Elizabeth,</hi>
+               </l>
+               <l>Raile at the <hi>Pope,</hi> and scratch out suddain death;</l>
+               <l>And for all this can give no reason why,</l>
+               <l>
+                  <hi>This is an Holy Sister verily.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
